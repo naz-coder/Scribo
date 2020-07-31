@@ -434,7 +434,7 @@ footer{
         color: #507772;
     }
     #services p{ 
-        font-size: 8px;
+        font-size: 6px;
         color: #000;
     }
     #services .d-flex div{
@@ -547,7 +547,7 @@ footer{
         font-size: 20px;
     }
     #contact p{ 
-        font-size: 12px;
+        font-size: 10px;
         color: #808080;
     }
     #contact .d-flex div{
@@ -578,6 +578,6 @@ footer{
         text-align: center;
         padding: 8px;
         /* padding-top: 80px; */
-        font-size: 12px;
+        font-size: 11px;
     }    
 }
