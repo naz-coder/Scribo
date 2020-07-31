@@ -565,6 +565,13 @@ footer{
         padding-top: 0px;
         /* margin-top: 0px; */
     }
+    a.phone{
+        text-decoration: none;
+        color: #000;
+        font-size: 10px;
+        padding-top: 0px;
+        /* margin-top: 0px; */
+    }
     a.mail{
         text-decoration: none;
         color: #507772;
