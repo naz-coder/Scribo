@@ -434,7 +434,7 @@ footer{
         color: #507772;
     }
     #services p{ 
-        font-size: 6px;
+        font-size: 5px;
         color: #000;
     }
     #services .d-flex div{
@@ -512,7 +512,7 @@ footer{
         margin: 5px;
     }
     img{
-        width: 200px;
+        width: 180px;
         height: 100px;
     }
     a.pix3{
